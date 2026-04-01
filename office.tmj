@@ -916,8 +916,17 @@
          "tilewidth":32
         }, 
         {
+         "columns":1,
          "firstgid":2956,
-         "source":"cats.tsx"
+         "image":"..\/..\/New Piskel.png",
+         "imageheight":64,
+         "imagewidth":32,
+         "margin":0,
+         "name":"cats",
+         "spacing":0,
+         "tilecount":2,
+         "tileheight":32,
+         "tilewidth":32
         }, 
         {
          "columns":3,
